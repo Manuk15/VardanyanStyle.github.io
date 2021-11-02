@@ -1,0 +1,120 @@
+#q{
+	width: 100%;
+	height: 200px;
+	background: #EB4C42;
+	margin: 0px;
+	display: inline-block;
+	border-radius: 30px;
+	opacity: 0.7;
+    
+}
+#w{
+	height: 100px;
+	width: 300px;
+	
+	color: #2FC8C5 ;
+	margin-left: 30px;
+	
+
+}
+#e{
+	background: #F0EAD6;
+}
+#t{
+
+	width: 400px;
+	height: 40px;
+	float: right;
+	display: inline-block;
+	margin-right: 30px;
+	margin-bottom: 200px;
+	
+	
+}
+#y{
+	background: #AEF0BC;
+	
+	
+}
+#y:hover{
+	background: #5595F0;
+}
+
+#x{
+	background: #F0B8C8;
+}
+#x:hover{
+	background: #F09D6C;
+}
+#u{
+	display: inline-block;
+	width: 1290px;
+	height: 300px;
+	
+	margin: 30px;
+	
+	display: flex;
+}
+#i{
+	display: inline-block;
+	width: 400px;
+	height: 300px;
+	
+	margin-left: 30px;
+	
+}
+#o{
+	display: inline-block;
+	width: 400px;
+	height: 300px;
+	
+	margin-left: 30px;
+}
+#p{
+	display: inline-block;
+	width: 400px;
+	height: 300px;
+	
+margin-left: 30px;
+}
+
+#s{
+	margin-left: 30px;
+	background: #A9C3F0;
+}
+#a{
+	opacity: 0.8;
+	border: 2px solid red;
+}
+#a:hover{
+	opacity: 0.5;
+	border: 3px solid blue;
+}
+#d{
+	opacity: 0.8;
+	border: 2px solid red;
+}
+#d:hover{
+	opacity: 0.5;
+	border: 3px solid blue;
+}
+#f{
+	opacity: 0.8;
+	border: 2px solid blue;
+}
+#f:hover{
+	opacity: 0.5;
+	border: 3px solid red;
+}
+#l{
+	width: 1250px;
+	height: 300px;
+	
+	display: inline-block;
+	margin: 40px;
+	background: #6E7F80;
+	border-radius: 40px;
+}
+#k{
+	color: white;
+}

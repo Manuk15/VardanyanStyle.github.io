@@ -1,0 +1,13 @@
+#q{
+	background: #8DA399;
+}
+#w{
+	color: #2792C8;
+	font-size: 32px;
+}
+#z{
+	background: #F0EAD6;
+}
+#z:hover{
+	background: red;
+}
